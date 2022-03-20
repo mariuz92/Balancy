@@ -1,0 +1,191 @@
+[
+  {
+    "name": "alternative",
+    "path": "/alternative",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\alternative.vue",
+    "chunkName": "pages/alternative",
+    "_name": "_0df46e8a"
+  },
+  {
+    "name": "calendar",
+    "path": "/calendar",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\calendar.vue",
+    "chunkName": "pages/calendar",
+    "_name": "_a73f34c0"
+  },
+  {
+    "name": "charts",
+    "path": "/charts",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\charts.vue",
+    "chunkName": "pages/charts",
+    "_name": "_3d8755b7"
+  },
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\dashboard.vue",
+    "chunkName": "pages/dashboard",
+    "_name": "_439c85a2"
+  },
+  {
+    "name": "lock",
+    "path": "/lock",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\lock.vue",
+    "chunkName": "pages/lock",
+    "_name": "_1d6b33e6"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_0b96c2f7"
+  },
+  {
+    "name": "pricing",
+    "path": "/pricing",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\pricing.vue",
+    "chunkName": "pages/pricing",
+    "_name": "_63331158"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_5b9b5e85"
+  },
+  {
+    "name": "tasks",
+    "path": "/tasks",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\tasks.vue",
+    "chunkName": "pages/tasks",
+    "_name": "_7de4b49c"
+  },
+  {
+    "name": "widgets",
+    "path": "/widgets",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\widgets.vue",
+    "chunkName": "pages/widgets",
+    "_name": "_3b8e29bd"
+  },
+  {
+    "name": "components-buttons",
+    "path": "/components/buttons",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\components\\\\buttons.vue",
+    "chunkName": "pages/components/buttons",
+    "_name": "_44f775b9"
+  },
+  {
+    "name": "components-cards",
+    "path": "/components/cards",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\components\\\\cards.vue",
+    "chunkName": "pages/components/cards",
+    "_name": "_771136ca"
+  },
+  {
+    "name": "components-grid-system",
+    "path": "/components/grid-system",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\components\\\\grid-system.vue",
+    "chunkName": "pages/components/grid-system",
+    "_name": "_248a4a4e"
+  },
+  {
+    "name": "components-icons",
+    "path": "/components/icons",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\components\\\\icons.vue",
+    "chunkName": "pages/components/icons",
+    "_name": "_ff9bc65c"
+  },
+  {
+    "name": "components-notifications",
+    "path": "/components/notifications",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\components\\\\notifications.vue",
+    "chunkName": "pages/components/notifications",
+    "_name": "_4c7aa7a0"
+  },
+  {
+    "name": "components-typography",
+    "path": "/components/typography",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\components\\\\typography.vue",
+    "chunkName": "pages/components/typography",
+    "_name": "_3a1c5827"
+  },
+  {
+    "name": "forms-components",
+    "path": "/forms/components",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\forms\\\\components.vue",
+    "chunkName": "pages/forms/components",
+    "_name": "_5cca70d3"
+  },
+  {
+    "name": "forms-elements",
+    "path": "/forms/elements",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\forms\\\\elements.vue",
+    "chunkName": "pages/forms/elements",
+    "_name": "_33f7c918"
+  },
+  {
+    "name": "forms-validation",
+    "path": "/forms/validation",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\forms\\\\validation.vue",
+    "chunkName": "pages/forms/validation",
+    "_name": "_0d346694"
+  },
+  {
+    "name": "maps-google",
+    "path": "/maps/google",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\maps\\\\google.vue",
+    "chunkName": "pages/maps/google",
+    "_name": "_797ae5b2"
+  },
+  {
+    "name": "maps-vector",
+    "path": "/maps/vector",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\maps\\\\vector.vue",
+    "chunkName": "pages/maps/vector",
+    "_name": "_53d65888"
+  },
+  {
+    "name": "pages-timeline",
+    "path": "/pages/timeline",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\pages\\\\timeline.vue",
+    "chunkName": "pages/pages/timeline",
+    "_name": "_235f7493"
+  },
+  {
+    "name": "pages-user",
+    "path": "/pages/user",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\pages\\\\user.vue",
+    "chunkName": "pages/pages/user",
+    "_name": "_4aaae41d"
+  },
+  {
+    "name": "tables-paginated",
+    "path": "/tables/paginated",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\tables\\\\paginated.vue",
+    "chunkName": "pages/tables/paginated",
+    "_name": "_de913a54"
+  },
+  {
+    "name": "tables-regular",
+    "path": "/tables/regular",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\tables\\\\regular.vue",
+    "chunkName": "pages/tables/regular",
+    "_name": "_e730cf36"
+  },
+  {
+    "name": "tables-sortable",
+    "path": "/tables/sortable",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\tables\\\\sortable.vue",
+    "chunkName": "pages/tables/sortable",
+    "_name": "_7af2147f"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Mario\\\\Desktop\\\\work\\\\nuxt-argon-dashboard-pro-v1.4.0\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_41ef1fe0"
+  }
+]
